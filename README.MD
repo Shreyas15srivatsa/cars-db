@@ -1,8 +1,6 @@
-### Group 6 Final Project
-
-#### Group: 6
-* Shreyas Srivatsa (s2srivat)
-* Iram Rahman (i5rahman)
-* Banin Abrar (babrar)
+Contributors - 
+* Shreyas Srivatsa
+* Iram Rahman
+* Banin Abrar
 
 
